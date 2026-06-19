@@ -1,0 +1,6 @@
+require("prototypes.custom-inputs")
+require("prototypes.doodle-cursor-tools")
+require("prototypes.emof-tool-sprites")
+require("prototypes.emof-tool-actions")
+require("prototypes.emof-clear-action")
+require("prototypes.emof-history-actions")
