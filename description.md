@@ -2,7 +2,7 @@
 
 Draw lines, arrows, squares, circles, and eraser marks on the Factorio map chart. Doodle registers its tools in **Chart Controls** through [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework) (EMOF).
 
-**Requires [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework) >= 0.1.0.**
+**Requires [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework).**
 
 ## Quick start
 

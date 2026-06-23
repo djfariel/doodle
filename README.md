@@ -1,8 +1,8 @@
 # Doodle
 
-Map annotation mod for Factorio 2.0. Draw lines, arrows, rectangles, circles, and eraser marks on the map chart through [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework) (EMOF) **Chart Controls**.
+Map annotation mod for Factorio. Draw lines, arrows, rectangles, circles, and eraser marks on the map chart through [Extensible Map Overlay Framework](https://mods.factorio.com/mod/extensible-map-overlay-framework) (EMOF) **Chart Controls**.
 
-Requires **Extensible Map Overlay Framework** >= 0.1.0.
+Requires **Extensible Map Overlay Framework**.
 
 ## Quick start
 

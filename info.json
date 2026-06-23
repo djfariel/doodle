@@ -1,14 +1,14 @@
 {
   "name": "doodle",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "title": "Doodle",
   "author": "djfariel",
   "homepage": "https://github.com/djfariel/doodle",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "description": "Map chart annotation: line, arrow, square, circle, and eraser tools via EMOF Chart Controls.",
   "dependencies": [
-    "base >= 2.0",
-    "extensible-map-overlay-framework >= 0.1.0"
+    "base >= 2.1",
+    "extensible-map-overlay-framework >= 1.0.0"
   ],
   "package": {
     "ignore": [
