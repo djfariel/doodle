@@ -1,6 +1,6 @@
 {
   "name": "doodle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Doodle",
   "author": "djfariel",
   "homepage": "https://github.com/djfariel/doodle",
@@ -8,7 +8,7 @@
   "description": "Map chart annotation: line, arrow, square, circle, and eraser tools via EMOF Chart Controls.",
   "dependencies": [
     "base >= 2.1",
-    "extensible-map-overlay-framework >= 1.0.0"
+    "extensible-map-overlay-framework >= 1.0.1"
   ],
   "package": {
     "ignore": [
